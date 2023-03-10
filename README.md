@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paolagll&show_icons=true&locale=en" alt="paolagll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paolagll&" alt="paolagll" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
