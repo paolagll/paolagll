@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/pao1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pao1105" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/paola-guerra-366702247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paola-guerra-366702247" height="30" width="40" /></a>
+ <a href="mailto:paolaguerrallerena@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  alt="pao1105" height="50" width="50" /></a>
 </p>
 
 ## 🛠 Skills
