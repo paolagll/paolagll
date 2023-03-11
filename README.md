@@ -84,9 +84,9 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="50" height="50" alt="React" />
+        <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="50" height="50" alt="Visual">
       </a>
-      <br>Adobe Xd
+      <br>Visual Studio
     </td>
     <td align="center" width="100">
       <a href="#">
