@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Paola Guerra</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer from Argentina. </h3>
 
 ## 🔗 Connect with me
 <p align="left">
