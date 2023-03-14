@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Paola Guerra</h1>
-<h2 align="center">A passionate frontend developer from Argentina who has fallen in love with front-end development. I have worked on various web development projects, which have helped me acquire  diferents skills. I enjoy working on front-end development because I can see my imagination and creativity reflected on the screen. I am an organized and committed individual who is always willing to learn new skills and technologies to enhance my work. </h2>
+<p align='justify'>
+ A passionate frontend developer from Argentina who has fallen in love with front-end development. I have worked on various web development projects, which have helped me acquire  diferents skills. I enjoy working on front-end development because I can see my imagination and creativity reflected on the screen. I am an organized and committed individual who is always willing to learn new skills and technologies to enhance my work. </p>
 
 ## 🔗 Connect with me
 <p align="left">
